@@ -15,10 +15,11 @@ function App() {
       <NavBar/>
       <Home/>
       <SocialLinks/>
+      <SpeedInsights />
       <About/>
       <Projects/>
       <Experience/>
-      <SpeedInsights />
+      
     </div>
   );
 }
