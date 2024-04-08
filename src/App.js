@@ -18,7 +18,7 @@ function App() {
       <About/>
       <Projects/>
       <Experience/>
-      <SpeedInsights/>
+      <SpeedInsights />
     </div>
   );
 }
