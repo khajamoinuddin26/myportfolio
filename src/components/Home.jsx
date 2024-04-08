@@ -22,7 +22,7 @@ const Home = () => {
                     </div>
                             <h2 data-aos="fade-in" data-aos-duration="1000" className='text-4xl sm:text-6xl font-bold text-white'>Khaja Moinuddin | <span data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="1000" className='animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-5xl font-black'>Full-Stack Developer</span></h2>
                             <p data-aos="fade-in" data-aos-delay="400" data-aos-duration="2000" className='text-gray-400 py-4 max-w-md w-full'>
-                                I'm a B.Tech 4th year Student of Vignan Institute of Technology and Science, Hyderabad. I specialize in Data Structures and Algorithms (DSA) and have extensive experience in development using languages like Python, Java, Javascript, HTML, MongoDB, and MySQL. With a proactive approach to learning and a keen interest in staying updated with emerging trends and technologies, I am committed to furthering my skills and contributing meaningfully to the ever-evolving landscape of software development.
+                                I'm a B.Tech 4th year Student of Vignan Institute of Technology and Science, Hyderabad. I specialize in Data Structures and Algorithms (DSA) and have extensive experience in development using languages like Python, Java, Javascript, HTML, and MySQL. With a proactive approach to learning and a keen interest in staying updated with emerging trends and technologies, I am committed to furthering my skills and contributing meaningfully to the ever-evolving landscape of software development.
 
 
 
