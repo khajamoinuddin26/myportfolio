@@ -1,6 +1,6 @@
 import { EarthCanvas, ComputersCanvas, StarsCanvas } from './canvas';
 import Hero from "./Hero.jsx";
-import Navbar from "./Navbar.jsx";
+import Navbar from "./NavBar.jsx";
 import About from "./About.jsx";
 import Tech from "./Tech.jsx";
 import Experience from "./Experience.jsx";
