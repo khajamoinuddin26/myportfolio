@@ -36,6 +36,7 @@ import {
   chatbot,
   vuejs,
   springboot,
+  mivada,
 } from '../assets'
 
 
@@ -75,7 +76,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Ui UX Designer",
+    title: "DevOps",
     icon: creator,
   },
 ];
@@ -155,14 +156,14 @@ const experiences = [
   {
     title: "Full-Stack Developer",
     company_name: "Mivada",
-    icon: tekisky,
+    icon: mivada,
     iconBg: "#383E56",
     date: "Aug 2024 - present",
     points: [
-      "Developing and maintaining web applications using MERN technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Develop and maintain full-stack applications using React, Node.js, Vue, and Spring Boot.",
+      "Collaborate with business analysts and clients to gather requirements, refine use cases, and deliver scalable, user-friendly solutions that align with business goals.",
+      "Optimize CI/CD pipelines on Bitbucket and AWS, handling deployments, versioning, and release automation with Maven/JReleaser.",
+      "Participate in code reviews and contribute to improving coding standards, maintainability, and best practices across projects.",
     ],
   },
 ];
@@ -215,7 +216,7 @@ const projects = [
  
     ],
     image: lungcancer,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/khajamoinuddin26/Lung-Cancer-Detection-using-CNN",
   },
   {
     name: "Text Recognition",
@@ -232,7 +233,7 @@ const projects = [
       },
     ],
     image: textrecognition,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/khajamoinuddin26/TextRecognition",
   },
   {
     name: "Computer Science Bot",
@@ -249,7 +250,7 @@ const projects = [
       },
     ],
     image: chatbot,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/khajamoinuddin26/Computer-Science-Bot",
   }
 ];
 

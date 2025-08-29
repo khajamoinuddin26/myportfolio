@@ -34,6 +34,7 @@ import textrecognition from './textrecognition.jpg'
 import chatbot from './chatbot.jpg'
 import vuejs from './tech/Vuejs.png'
 import springboot from './tech/springboot.png'
+import mivada from './company/mivada_logo.svg'
 export {
   logo,
   backend,
@@ -70,6 +71,7 @@ export {
   textrecognition,
   chatbot,
   vuejs,
-  springboot
+  springboot,
+  mivada
 
 };
